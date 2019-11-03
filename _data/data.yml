@@ -49,7 +49,7 @@ experiences:
     - role: Software Engineer
       time: 2019 - Present
       company: Amaris constulating(Philips HTC Client) Eindhoven
-      project details: |
+      details: |
         Front-end web developer, working on DICOM image rendering.
         Building an web applcation to radiologist, who can access the studylist from a 
         patient directory to read DICOM images into the DICOM-Viewing area.
@@ -71,7 +71,7 @@ experiences:
     - role: Software Engineer
       time: 2016 - 2019
       company: Philips Innovation Campus, Bangalore
-      project details: |
+      details: |
         Philips Virtual Machine and Mobile Device Farm is a Web-based application 
         testing service that enables you to test and interact with different OS like Windows, 
         Ubuntu, Android, IOS and Web apps on real, physical phones and tablets and 
@@ -89,7 +89,7 @@ experiences:
     - role: Software Engineer
       time: 2015 - 2016
       company: Bellus Mantra , Bangalore
-      project details: |
+      details: |
         The project deals with the Logistics System which is having two mobile applications (Android), and 
         a web application, connected to a single server and database.
         Building a website using Mean Stack Technology for ERP Applications
