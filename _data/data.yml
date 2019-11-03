@@ -13,188 +13,187 @@ sidebar:
 
     # Sidebar links
     email: darshansr.nl222@gmail.com
-    phone: 
-    website: blog.webjeda.com #do not add http://
-    linkedin: darshan s r
+    phone: +31640974604
+    website: https://darshansr.github.io/online-cv/ #do not add http://
+    linkedin: https://www.linkedin.com/in/darshan-s-r-44b145120/
 
-    github: sharu725
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    github: https://github.com/darshansr
+    # gitlab:
+    # bitbucket:
+    # twitter: '@webjeda'
+    # stack-overflow: # Number/Username, e.g. 123456/alandoe
+    # codewars:
+    # goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: Kannada
         level: Native
 
       - idiom: English
-        level: Native
-
-      - idiom: Spanish
-        level: Professional
+        level: fluent
 
     interests:
       - item: Cricket
-        link:
 
-      - item: Chess,Puzzel games
-        link:
+      - item: Chess, Puzzel Games
 
       - item: Cooking
-        link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
-
-education:
-    - degree: BE in Computer Science
-      university: Visvesvaraya Technological University
-      time: 2008 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - degree: Pre University College ,   in Applied Mathematics
-      university: Alvas PUC Moodbidri,
-      time: 2006 - 2008
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+      Seeking a position to utilize my skills and abilities in an Organization that offers 
+      Professional growth while being resourceful, innovative and flexible. 
 
 experiences:
     - role: Software Engineer
       time: 2019 - Present
       company: Amaris constulating(Philips HTC Client) Eindhoven
-      details: |
+      project details: |
         Front-end web developer, working on DICOM image rendering.
         Building an web applcation to radiologist, who can access the studylist from a 
         patient directory to read DICOM images into the DICOM-Viewing area.
         Which contains patient details as header, viewing container,study thumbline,
         toolar, annotator.
 
-          - Bullet point
-          - Bullet point
+          - Involved in analysis, specification, design, and implementation and 
+            testing phases of Software Development Life Cycle (SDLC) and 
+            used agile methodology (SCRUM) for developing application.
+          - DLS based movie bar into DICOM viewer 
+          - Add tooltip with localization to control
+          - Movie starts automatically when series is switched
+          - Implement HttpClient for data access clients
+          - Delpoy Complete Application into Cloudy foundary
+          - WebADE integration with IAM in HSDP.
+          - Build Docker image
+          - Handle regression and support to customer.
 
     - role: Software Engineer
       time: 2016 - 2019
       company: Philips Innovation Campus, Bangalore
-      details: |
+      project details: |
         Philips Virtual Machine and Mobile Device Farm is a Web-based application 
         testing service that enables you to test and interact with different OS like Windows, 
         Ubuntu, Android, IOS and Web apps on real, physical phones and tablets and 
         also allow us to Automated testing of apps using a variety of available testing frameworks, 
         Remote access of devices in which you can load, run, and interact with apps in real time.
 
-          - Bullet point
-          - Bullet point
+          - Created proof-of-concept using responsive web design, Developed drag and drop document editing using Angular 4, 
+          - Created proof-of-concept on populating Virtual Machine into browser based Environment using noVnc Library and integrated in a web based application. 
+          - Implemented form validation on HTML forms using the built-in validation properties 
+            and methods in Angular JS
+          - Developed various single page applications (SPA) using Angular JS 
+            and used various components in the angular modules.
+          - Authenticating Users and to provide the security to RestFul web services using Ldap Server.
 
     - role: Software Engineer
       time: 2015 - 2016
       company: Bellus Mantra , Bangalore
-      details: |
+      project details: |
         The project deals with the Logistics System which is having two mobile applications (Android), and 
         a web application, connected to a single server and database.
         Building a website using Mean Stack Technology for ERP Applications
         Construction of a Cloud based web application for a business to business 
         consumers and E-commerce applicants using latest technology. 
         This project is started with item list pages, role based login, signup, purchase order, 
-        vendor creation, and many more pages and functionality is in Hold.
+        vendor creation, and many more pages and functionality was in Hold.
 
+          - Implemented Angular JS to simplify the making asynchronous calls to backend REST API’s. 
+          - Implemented JSON web tokens mechanism for authentication and authorization security configurations using Node.js.
+          - Used Express JS which is fast, assertive, essential and moderate web framework of Node.js that helps manage a sever and routes.
+          - Performed CRUD operations like Create, Update, Insert and Delete data in Mongo DB. 
 
-          - Bullet point
-          - Bullet point
+# projects:
+#     title: Projects
+#     intro: >
+#       You can list your side projects or open source libraries in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     assignments:
+#       - title: WEBA
+#         link: "#hook"
+#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+#       - title: DevStudio
+#         link: "#"
+#         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+education:
+    - degree: BE in Computer Science
+      university: Visvesvaraya Technological University
+      time: 2008 - 2012
+    - degree: Pre University College ,
+      university: Alvas PUC Moodbidri,
+      time: 2006 - 2008
+      
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
 
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#       - title: A syntax directed compiler for Algol 60
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Agile methodoloy
+        level: 60%
+      
+      - name: Javascript
+        level: 75%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: AngularJS and Angular
+        level: 70%
 
-      - name: Angular
-        level: 98%
+      - name: Typescript
+        level: 55%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: Core java
         level: 60%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: HTML5 & CSS 
+        level: 65%
+
+      - name: Access Token, OAUTH 2 for Authorization and Authentication
+        level: 80%
+
+# smiple docker deplying maechinse i know without any once depandecy 
+      - name : Docker Deployment (Build, Ship, Run) and Nginx
+        level: 40%
+
+      - name: Mongodb & Rethinkdb
+        level: 50%
+
+      - name : Web Services(SOAP and RestFul)
+        level: 60%
+
+
+# footer: >
+#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
