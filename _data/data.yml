@@ -45,6 +45,14 @@ career-profile:
       Seeking a position to utilize my skills and abilities in an Organization that offers 
       Professional growth while being resourceful, innovative and flexible. 
 
+education:
+    - degree: BE in Computer Science
+      university: Visvesvaraya Technological University
+      time: 2008 - 2012
+    - degree: Pre University College ,
+      university: Alvas PUC Moodbidri,
+      time: 2006 - 2008
+      
 experiences:
     - role: Software Engineer
       time: 2019 - Present
@@ -131,13 +139,7 @@ experiences:
 #         link: "#"
 #         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-education:
-    - degree: BE in Computer Science
-      university: Visvesvaraya Technological University
-      time: 2008 - 2012
-    - degree: Pre University College ,
-      university: Alvas PUC Moodbidri,
-      time: 2006 - 2008
+
       
 # publications:
 #     title: Publications
